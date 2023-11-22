@@ -1,3 +1,4 @@
-function calculateNumbers(var1, var1){
+function calculateNumbers(var1, var2){
+    console.log('Example DB.!!!');
     console.log(var1+var2);
 }
